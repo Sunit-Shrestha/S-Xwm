@@ -1,1 +1,1 @@
-# floWinM
+# simpleXwm
